@@ -1,0 +1,1 @@
+see https://forums.rpgmakerweb.com/index.php?threads/festivals-and-celebrations.52782/
