@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/ONfl-yp36DI"
+                 "value":"https:\/\/www.youtube.com\/embed\/oVl7shMIXUw"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"_Cyberland-Stage"
+                 "value":"Stage"
                 }],
          "type":"tilelayer",
          "visible":true,
