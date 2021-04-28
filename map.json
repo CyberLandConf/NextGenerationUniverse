@@ -38,6 +38,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cloud.ijug.eu\/index.php\/s\/xaBLBSKgarbYiwC"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +60,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/oVl7shMIXUw"
+                 "value":"https:\/\/cyberland.ijug.eu\/stream\/youtube"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
