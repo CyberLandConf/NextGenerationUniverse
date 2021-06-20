@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/1IOS-TRQvsYE1uLhcNrcg2aRlNN1JMbBej2H1DEUrLjw\/edit?usp=sharing"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1o0iXHTN8o5Tg15It4P8fyZ5Ri2tbMBLKs1FkEXDbHr8\/edit?usp=sharing"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -286,7 +286,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -892,6 +892,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":71
 }
