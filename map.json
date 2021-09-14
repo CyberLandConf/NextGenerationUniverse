@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=s-ruF5zMsgs"
+                 "value":"https:\/\/www.youtube.com\/embed\/s-ruF5zMsgs"
                 }, 
                 {
                  "name":"openWebsitePolicy",
