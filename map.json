@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/1o0iXHTN8o5Tg15It4P8fyZ5Ri2tbMBLKs1FkEXDbHr8\/edit?usp=sharing"
+                 "value":"https:\/\/cyberland.ijug.eu\/2021-09-java-17-release-party\/"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cyberland.ijug.eu\/stream\/youtube"
+                 "value":"https:\/\/www.youtube.com\/watch?v=s-ruF5zMsgs"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -286,7 +286,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -892,6 +892,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":71
 }
