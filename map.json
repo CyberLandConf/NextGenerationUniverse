@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cyberland.ijug.eu\/2021-09-java-17-release-party\/"
+                 "value":"https:\/\/docs.google.com\/document\/d\/17pC3q4tAgiytcVXtB-0Q_N0Y91w7OYs3MJvWynP_cHw\/edit?usp=sharing"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -286,7 +286,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -892,6 +892,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":71
 }
