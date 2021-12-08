@@ -84,6 +84,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/app.wonder.me\/?spaceId=bf941fdd-0901-4e03-9572-468274e592a1"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera;microphone;display-capture"
                 }],
          "type":"tilelayer",
          "visible":true,
