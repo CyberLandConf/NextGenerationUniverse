@@ -65,7 +65,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"CyberLandStage"
+                 "value":"Stage"
                 }],
          "type":"tilelayer",
          "visible":true,
