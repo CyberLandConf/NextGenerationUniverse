@@ -56,12 +56,7 @@
          "id":26,
          "name":"page-STREAM",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/cyberland.ijug.eu\/stream\/1"
-                }, 
+         "properties": [
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
