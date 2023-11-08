@@ -600,14 +600,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiNoPrefix",
                  "type":"string",
-                 "value":"https:\/\/cyberland.ijug.eu\/stream\/1"
+                 "value":"true"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"cyberlandlogpark"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -677,14 +677,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiNoPrefix",
                  "type":"string",
-                 "value":"https:\/\/cyberland.ijug.eu\/stream\/2"
+                 "value":"true"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"cyberlandcigarden"
                 }],
          "type":"tilelayer",
          "visible":true,
