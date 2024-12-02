@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/static\/main.html"
+                 "value":"\/test\/main.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
