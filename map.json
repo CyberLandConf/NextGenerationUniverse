@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/test\/main.html"
+                 "value":"https:\/\/world.ijug.eu\/test\/main.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
