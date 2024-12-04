@@ -56,22 +56,6 @@
          "id":26,
          "name":"page-STREAM",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/world.ijug.eu\/test\/stream1.html"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                }, 
-                {
-                 "name":"silent",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":71,
@@ -178,14 +162,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiNoPrefix",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"true"
+                 "value":"https:\/\/world.ijug.eu\/test\/stream1.html"
                 }, 
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"cyberlandlogpark"
+                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -201,14 +190,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiNoPrefix",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"true"
+                 "value":"https:\/\/world.ijug.eu\/test\/stream2.html"
                 }, 
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"cyberlandcigarden"
+                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
