@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/document\/d\/17pC3q4tAgiytcVXtB-0Q_N0Y91w7OYs3MJvWynP_cHw\/edit?usp=sharing"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1cxj6gmT1Ll2Mq29rBTXNOiNiCCC-Khz3jmlXWfbvhG4\/edit?usp=sharing"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -57,7 +57,7 @@
          "name":"page-STREAM",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -80,7 +80,7 @@
                  "value":"CyberLandSee"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -103,7 +103,7 @@
                  "value":"CyberLandStage"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -126,7 +126,7 @@
                  "value":"CyberLandBrunnen"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -149,7 +149,7 @@
                  "value":"CyberLandNursery"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -177,7 +177,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -205,7 +205,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -228,7 +228,7 @@
                  "value":"CyberLandRoot"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -240,7 +240,7 @@
          "name":"BLOCK",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -252,7 +252,7 @@
          "name":"basis-boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -264,7 +264,7 @@
          "name":"boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -276,7 +276,7 @@
          "name":"boden-uebergaenge",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":71,
          "x":0,
          "y":0
@@ -356,7 +356,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -962,6 +962,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.6",
  "width":71
 }
